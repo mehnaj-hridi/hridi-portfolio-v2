@@ -20,7 +20,7 @@ const AboutSection = () => {
           <div className="w-full lg:w-1/3 flex justify-center">
             <div className="bg-white rounded-3xl p-4 shadow-xl border border-dusty-pink-300">
               <img
-                src="/your-photo.jpg" // Replace with actual path
+                src="/imagesyour-photo.jpg" // Replace with actual path
                 alt="Your Name"
                 className="rounded-2xl w-72 h-72 object-cover"
               />
